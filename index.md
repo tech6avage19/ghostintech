@@ -1,5 +1,6 @@
 
-## GhostinTech Cyber Blog
+## GhostinTech Cyber Blog 
+### by tech6avage19
 
 Welcome to my cybersecurity blog where I document my daily progress, labs, and study reflections.
 
